@@ -2,7 +2,7 @@
 #define __ObjCCalls_H__
 
 #include <stddef.h>
-class ObjCCalls
+class ObjCCalls{
 private: 
 public:
     static void loadGoogleAds();
